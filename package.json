@@ -1,11 +1,10 @@
 {
-  "name": "mandelbrot set visualization",
   "version": "0.0.1",
   "description": "mandelbrot set visualization with redux",
   "main": "index.js",
   "scripts": {
     "start": "script/build",
-    "serve": "script/watch",
+    "serve": "script/watch"
   },
   "license": "MIT",
   "devDependencies": {
